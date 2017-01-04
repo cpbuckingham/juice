@@ -1,6 +1,6 @@
-# Reddit Clone With Server
+# Juice
 
-Create an Angular application that allows users to CRUD data from a server.
+Angular application that allows users to CRUD workout data.
 
 ## Setup
 
