@@ -1,0 +1,37 @@
+body {
+  background-color: gray;
+}
+/*FORM*/
+
+.form-container {
+    position: relative;
+    align-items: center;
+}
+
+.form-container>.wrapper {
+    text-align: center;
+}
+
+/*no ugly boxes*/
+input[type='text'], input[type='password'] {
+    text-align: center;
+    background-color: transparent;
+    border: 0px;
+    outline: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    width: auto;
+    color: white;
+    cursor: text;
+}
+
+.field {
+  position: relative;
+
+}
+
+/*style submit button*/
+input[type="submit"] {
+
+}
